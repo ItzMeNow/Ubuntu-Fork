@@ -5,7 +5,7 @@ A faster, lighter, and more stable Ubuntu experience.
 Ubuntu Fork is a performance-focused fork of Ubuntu and Ubuntu Server, designed for lower RAM usage, improved stability, optimized performance, and an optional desktop environment.
 
 <p align="center">
-  **⚡ Performance • 🛡️ Stability • 🪶 Lightweight • 🖥️ Modular**
+  ⚡ Performance • 🛡️ Stability • 🪶 Lightweight • 🖥️ Modular
 </p>✨ Features
 
 - ⚡ Optimized performance and faster boot times.
@@ -18,4 +18,4 @@ Ubuntu Fork is a performance-focused fork of Ubuntu and Ubuntu Server, designed 
 
 Open-source project — license to be determined.
 
-Developed with ❤️ by "itzmenow" (https://github.com/itzmenow)
+Developed with ❤️ by ItzMeNow(https://github.com/itzmenow)
